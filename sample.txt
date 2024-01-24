@@ -1,0 +1,3 @@
+This is A Sample Text File To test inputs and outputs 
+Kindly run the create_key() function before encrypting me, 
+Also don't rerun the create_key() function, you will loose the key to decrypt 
